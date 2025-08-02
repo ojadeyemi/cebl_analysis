@@ -1,0 +1,23 @@
+player,team,zone,total_points,total_attempts,made_shots,fg_percentage
+M. Boursiquot,Montreal Alliance,left_corner,3,1,1,1.0
+J. Bowden,Montreal Alliance,left_corner,0,1,0,0.0
+C. Smith,Montreal Alliance,left_short_corner,2,1,1,1.0
+A. Hill,Montreal Alliance,left_short_corner,0,1,0,0.0
+A. Louis,Montreal Alliance,left_short_corner,0,1,0,0.0
+A. Hill,Montreal Alliance,left_wing_three,3,1,1,1.0
+D. Bandoo,Montreal Alliance,left_wing_three,0,1,0,0.0
+G. Payen-Boucard,Montreal Alliance,left_wing_three,0,2,0,0.0
+A. Louis,Montreal Alliance,restricted_area,8,5,4,0.8
+C. Rohlehr,Montreal Alliance,restricted_area,8,5,4,0.8
+C. Smith,Montreal Alliance,restricted_area,4,6,2,0.3333333333333333
+D. Bandoo,Montreal Alliance,right_short_corner,4,2,2,1.0
+C. Smith,Montreal Alliance,right_short_corner,2,1,1,1.0
+J. Bowden,Montreal Alliance,right_short_corner,0,1,0,0.0
+A. Hill,Montreal Alliance,right_wing_three,6,2,2,1.0
+G. Payen-Boucard,Montreal Alliance,right_wing_three,3,1,1,1.0
+J. Bowden,Montreal Alliance,right_wing_three,3,4,1,0.25
+A. Louis,Montreal Alliance,top_key_midrange,2,1,1,1.0
+J. Bowden,Montreal Alliance,top_key_midrange,0,1,0,0.0
+A. Hill,Montreal Alliance,top_key_three,0,1,0,0.0
+C. Smith,Montreal Alliance,top_key_three,0,2,0,0.0
+D. Bandoo,Montreal Alliance,top_key_three,0,1,0,0.0

@@ -1,0 +1,28 @@
+player,team,zone,total_points,total_attempts,made_shots,fg_percentage
+G. Pepin,Ottawa BlackJacks,left_corner,3,2,1,0.5
+K. Gray,Ottawa BlackJacks,left_corner,3,4,1,0.25
+K. Veinot,Ottawa BlackJacks,left_corner,3,1,1,1.0
+J. Berhanemeskel,Ottawa BlackJacks,left_short_corner,4,2,2,1.0
+C. Posthumus,Ottawa BlackJacks,left_short_corner,2,1,1,1.0
+D. Adel,Ottawa BlackJacks,left_short_corner,2,6,1,0.16666666666666666
+E. Calloway,Ottawa BlackJacks,left_wing_three,9,4,3,0.75
+S. Givance,Ottawa BlackJacks,left_wing_three,9,4,3,0.75
+D. Adel,Ottawa BlackJacks,left_wing_three,6,6,2,0.3333333333333333
+I. Moore,Ottawa BlackJacks,restricted_area,32,19,16,0.8421052631578947
+C. Posthumus,Ottawa BlackJacks,restricted_area,28,22,14,0.6363636363636364
+L. Pandi,Ottawa BlackJacks,restricted_area,18,13,9,0.6923076923076923
+J. Berhanemeskel,Ottawa BlackJacks,right_corner,3,1,1,1.0
+K. Gray,Ottawa BlackJacks,right_corner,3,2,1,0.5
+K. Veinot,Ottawa BlackJacks,right_corner,3,1,1,1.0
+D. Adel,Ottawa BlackJacks,right_short_corner,6,8,3,0.375
+T. Brown,Ottawa BlackJacks,right_short_corner,6,4,3,0.75
+A. Williams,Ottawa BlackJacks,right_short_corner,4,3,2,0.6666666666666666
+T. Green,Ottawa BlackJacks,right_wing_three,12,6,4,0.6666666666666666
+J. Berhanemeskel,Ottawa BlackJacks,right_wing_three,9,6,3,0.5
+K. Gray,Ottawa BlackJacks,right_wing_three,9,6,3,0.5
+T. Scrubb,Ottawa BlackJacks,top_key_midrange,8,8,4,0.5
+K. Gray,Ottawa BlackJacks,top_key_midrange,6,6,3,0.5
+M. Coleman III,Ottawa BlackJacks,top_key_midrange,6,3,3,1.0
+J. Gant,Ottawa BlackJacks,top_key_three,6,2,2,1.0
+D. Adel,Ottawa BlackJacks,top_key_three,3,5,1,0.2
+E. Calloway,Ottawa BlackJacks,top_key_three,3,1,1,1.0

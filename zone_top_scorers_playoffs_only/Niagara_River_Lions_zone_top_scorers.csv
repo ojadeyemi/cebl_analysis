@@ -1,0 +1,28 @@
+player,team,zone,total_points,total_attempts,made_shots,fg_percentage
+A. Davis Jr.,Niagara River Lions,left_corner,3,2,1,0.5
+A. Rai,Niagara River Lions,left_corner,3,1,1,1.0
+D. Pinson,Niagara River Lions,left_corner,3,2,1,0.5
+K. Robertson,Niagara River Lions,left_short_corner,6,4,3,0.75
+N. Cayo,Niagara River Lions,left_short_corner,6,7,3,0.42857142857142855
+K. Ahmad,Niagara River Lions,left_short_corner,4,3,2,0.6666666666666666
+P. Scrubb,Niagara River Lions,left_wing_three,12,11,4,0.36363636363636365
+K. Ahmad,Niagara River Lions,left_wing_three,9,10,3,0.3
+A. Davis Jr.,Niagara River Lions,left_wing_three,6,5,2,0.4
+K. Ahmad,Niagara River Lions,restricted_area,32,33,16,0.48484848484848486
+N. Cayo,Niagara River Lions,restricted_area,26,17,13,0.7647058823529411
+D. Mullings,Niagara River Lions,restricted_area,22,20,11,0.55
+O. Moore,Niagara River Lions,right_corner,6,3,2,0.6666666666666666
+N. Cayo,Niagara River Lions,right_corner,3,6,1,0.16666666666666666
+P. Scrubb,Niagara River Lions,right_corner,3,1,1,1.0
+D. Mullings,Niagara River Lions,right_short_corner,4,3,2,0.6666666666666666
+J. Blair,Niagara River Lions,right_short_corner,4,3,2,0.6666666666666666
+K. Ahmad,Niagara River Lions,right_short_corner,4,5,2,0.4
+K. Ahmad,Niagara River Lions,right_wing_three,12,15,4,0.26666666666666666
+E. Onu,Niagara River Lions,right_wing_three,6,3,2,0.6666666666666666
+J. Babb-Harrison,Niagara River Lions,right_wing_three,6,5,2,0.4
+E. Mitrou-Long,Niagara River Lions,top_key_midrange,4,6,2,0.3333333333333333
+J. Henry-Blair,Niagara River Lions,top_key_midrange,4,5,2,0.4
+K. Mackenzie,Niagara River Lions,top_key_midrange,4,4,2,0.5
+K. Ahmad,Niagara River Lions,top_key_three,21,16,7,0.4375
+E. Onu,Niagara River Lions,top_key_three,18,7,6,0.8571428571428571
+P. Scrubb,Niagara River Lions,top_key_three,9,3,3,1.0

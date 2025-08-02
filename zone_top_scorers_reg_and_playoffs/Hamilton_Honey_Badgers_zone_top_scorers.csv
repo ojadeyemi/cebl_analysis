@@ -1,0 +1,28 @@
+player,team,zone,total_points,total_attempts,made_shots,fg_percentage
+D. Denzel-Dyson,Hamilton Honey Badgers,left_corner,33,26,11,0.4230769230769231
+C. Vital,Hamilton Honey Badgers,left_corner,30,19,10,0.5263157894736842
+J. Mukama,Hamilton Honey Badgers,left_corner,27,27,9,0.3333333333333333
+J. Rocca,Hamilton Honey Badgers,left_short_corner,18,18,9,0.5
+C. Agada,Hamilton Honey Badgers,left_short_corner,14,22,7,0.3181818181818182
+L. Wigginton,Hamilton Honey Badgers,left_short_corner,13,13,6,0.46153846153846156
+D. Denzel-Dyson,Hamilton Honey Badgers,left_wing_three,57,42,19,0.4523809523809524
+C. Vital,Hamilton Honey Badgers,left_wing_three,42,41,14,0.34146341463414637
+A. Johnson,Hamilton Honey Badgers,left_wing_three,33,26,11,0.4230769230769231
+R. Tarrant Jr.,Hamilton Honey Badgers,restricted_area,170,127,85,0.6692913385826772
+J. Tilmon,Hamilton Honey Badgers,restricted_area,116,82,58,0.7073170731707317
+C. Agada,Hamilton Honey Badgers,restricted_area,108,94,54,0.574468085106383
+N. Djogo,Hamilton Honey Badgers,right_corner,30,20,10,0.5
+J. Mukama,Hamilton Honey Badgers,right_corner,15,16,5,0.3125
+K. McEwen,Hamilton Honey Badgers,right_corner,15,8,5,0.625
+X. Rathan-Mayes,Hamilton Honey Badgers,right_short_corner,20,22,10,0.45454545454545453
+J. Rocca,Hamilton Honey Badgers,right_short_corner,18,19,9,0.47368421052631576
+D. Denzel-Dyson,Hamilton Honey Badgers,right_short_corner,12,14,6,0.42857142857142855
+K. McEwen,Hamilton Honey Badgers,right_wing_three,54,40,18,0.45
+D. Denzel-Dyson,Hamilton Honey Badgers,right_wing_three,45,48,15,0.3125
+J. Mukama,Hamilton Honey Badgers,right_wing_three,42,34,14,0.4117647058823529
+C. Agada,Hamilton Honey Badgers,top_key_midrange,31,35,15,0.42857142857142855
+L. Wigginton,Hamilton Honey Badgers,top_key_midrange,20,23,10,0.43478260869565216
+B. Weber,Hamilton Honey Badgers,top_key_midrange,18,11,9,0.8181818181818182
+L. Wigginton,Hamilton Honey Badgers,top_key_three,57,33,19,0.5757575757575758
+R. Tarrant Jr.,Hamilton Honey Badgers,top_key_three,39,28,13,0.4642857142857143
+C. Agada,Hamilton Honey Badgers,top_key_three,36,39,12,0.3076923076923077

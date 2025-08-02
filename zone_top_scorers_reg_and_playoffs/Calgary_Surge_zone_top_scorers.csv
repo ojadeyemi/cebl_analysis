@@ -1,0 +1,28 @@
+player,team,zone,total_points,total_attempts,made_shots,fg_percentage
+S. Miller-Moore,Calgary Surge,left_corner,30,39,10,0.2564102564102564
+J. Lewis,Calgary Surge,left_corner,21,11,7,0.6363636363636364
+M. Duvivier,Calgary Surge,left_corner,18,11,6,0.5454545454545454
+S. Miller-Moore,Calgary Surge,left_short_corner,32,61,16,0.26229508196721313
+C. Davis Jr.,Calgary Surge,left_short_corner,13,14,6,0.42857142857142855
+A. Gilder Jr.,Calgary Surge,left_short_corner,9,9,4,0.4444444444444444
+S. Smith,Calgary Surge,left_wing_three,51,57,17,0.2982456140350877
+C. Davis Jr.,Calgary Surge,left_wing_three,42,38,14,0.3684210526315789
+M. Kamba,Calgary Surge,left_wing_three,39,24,13,0.5416666666666666
+S. Miller-Moore,Calgary Surge,restricted_area,366,308,183,0.5941558441558441
+S. Smith,Calgary Surge,restricted_area,178,147,89,0.6054421768707483
+S. Shittu,Calgary Surge,restricted_area,166,144,83,0.5763888888888888
+C. Davis Jr.,Calgary Surge,right_corner,24,19,8,0.42105263157894735
+T. Mitchell,Calgary Surge,right_corner,24,15,8,0.5333333333333333
+A. Gilder Jr.,Calgary Surge,right_corner,21,14,7,0.5
+S. Miller-Moore,Calgary Surge,right_short_corner,52,74,26,0.35135135135135137
+C. Davis Jr.,Calgary Surge,right_short_corner,26,30,13,0.43333333333333335
+S. Shittu,Calgary Surge,right_short_corner,14,18,7,0.3888888888888889
+C. Davis Jr.,Calgary Surge,right_wing_three,69,57,23,0.40350877192982454
+M. Kamba,Calgary Surge,right_wing_three,51,38,17,0.4473684210526316
+S. Smith,Calgary Surge,right_wing_three,48,49,16,0.32653061224489793
+S. Miller-Moore,Calgary Surge,top_key_midrange,64,78,32,0.41025641025641024
+C. Davis Jr.,Calgary Surge,top_key_midrange,34,46,17,0.3695652173913043
+S. Shittu,Calgary Surge,top_key_midrange,16,25,8,0.32
+S. Smith,Calgary Surge,top_key_three,72,59,24,0.4067796610169492
+C. Davis Jr.,Calgary Surge,top_key_three,39,31,13,0.41935483870967744
+M. Duvivier,Calgary Surge,top_key_three,30,24,10,0.4166666666666667

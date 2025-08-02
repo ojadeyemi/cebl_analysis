@@ -1,0 +1,341 @@
+player,team,zone,total_points,total_attempts,made_shots,fg_percentage
+P. Emilien,Brampton Honey Badgers,left_corner,0,1,0,0.0
+A. Hamilton,Brampton Honey Badgers,left_short_corner,2,2,1,0.5
+P. Oduro,Brampton Honey Badgers,left_short_corner,2,3,1,0.3333333333333333
+M. Walker,Brampton Honey Badgers,left_short_corner,0,2,0,0.0
+C. Baker,Brampton Honey Badgers,left_wing_three,3,1,1,1.0
+C. John,Brampton Honey Badgers,left_wing_three,3,1,1,1.0
+M. Walker,Brampton Honey Badgers,left_wing_three,0,1,0,0.0
+S. Stevenson,Brampton Honey Badgers,restricted_area,14,11,7,0.6363636363636364
+Z. Waterman,Brampton Honey Badgers,restricted_area,8,6,4,0.6666666666666666
+C. Baker,Brampton Honey Badgers,restricted_area,6,5,3,0.6
+P. Oduro,Brampton Honey Badgers,right_short_corner,6,3,3,1.0
+C. Baker,Brampton Honey Badgers,right_short_corner,2,1,1,1.0
+M. Walker,Brampton Honey Badgers,right_short_corner,2,1,1,1.0
+C. Baker,Brampton Honey Badgers,right_wing_three,3,2,1,0.5
+M. Walker,Brampton Honey Badgers,right_wing_three,0,1,0,0.0
+C. John,Brampton Honey Badgers,top_key_midrange,2,3,1,0.3333333333333333
+Z. Waterman,Brampton Honey Badgers,top_key_midrange,2,1,1,1.0
+A. Hamilton,Brampton Honey Badgers,top_key_midrange,0,1,0,0.0
+A. Hamilton,Brampton Honey Badgers,top_key_three,3,1,1,1.0
+C. Baker,Brampton Honey Badgers,top_key_three,0,1,0,0.0
+M. Walker,Brampton Honey Badgers,top_key_three,0,2,0,0.0
+A. Gilder Jr.,Calgary Surge,left_corner,6,3,2,0.6666666666666666
+C. Davis Jr.,Calgary Surge,left_corner,6,2,2,1.0
+T. Henderson Jr.,Calgary Surge,left_corner,6,5,2,0.4
+C. Davis Jr.,Calgary Surge,left_short_corner,4,2,2,1.0
+M. Kamba,Calgary Surge,left_short_corner,2,2,1,0.5
+J. Tshimanga,Calgary Surge,left_short_corner,0,1,0,0.0
+C. Davis Jr.,Calgary Surge,left_wing_three,6,5,2,0.4
+M. Bourcier,Calgary Surge,left_wing_three,6,5,2,0.4
+M. Kamba,Calgary Surge,left_wing_three,6,5,2,0.4
+S. Miller-Moore,Calgary Surge,restricted_area,34,34,17,0.5
+J. Tshimanga,Calgary Surge,restricted_area,30,32,15,0.46875
+S. Smith,Calgary Surge,restricted_area,28,22,14,0.6363636363636364
+T. Mitchell,Calgary Surge,right_corner,6,4,2,0.5
+C. Davis Jr.,Calgary Surge,right_corner,3,3,1,0.3333333333333333
+S. Miller-Moore,Calgary Surge,right_corner,3,4,1,0.25
+S. Miller-Moore,Calgary Surge,right_short_corner,8,9,4,0.4444444444444444
+J. Tshimanga,Calgary Surge,right_short_corner,6,4,3,0.75
+T. Mitchell,Calgary Surge,right_short_corner,3,2,1,0.5
+C. Davis Jr.,Calgary Surge,right_wing_three,21,15,7,0.4666666666666667
+S. Miller-Moore,Calgary Surge,right_wing_three,6,4,2,0.5
+M. Bourcier,Calgary Surge,right_wing_three,3,2,1,0.5
+S. Miller-Moore,Calgary Surge,top_key_midrange,12,17,6,0.35294117647058826
+C. Davis Jr.,Calgary Surge,top_key_midrange,8,12,4,0.3333333333333333
+M. Duvivier,Calgary Surge,top_key_midrange,2,2,1,0.5
+S. Smith,Calgary Surge,top_key_three,9,5,3,0.6
+C. Davis Jr.,Calgary Surge,top_key_three,6,6,2,0.3333333333333333
+M. Bourcier,Calgary Surge,top_key_three,6,9,2,0.2222222222222222
+I. Osborne,Edmonton Stingers,left_corner,6,5,2,0.4
+A. Ellis,Edmonton Stingers,left_corner,3,2,1,0.5
+A. Peter-McNeilly,Edmonton Stingers,left_corner,3,6,1,0.16666666666666666
+J. Baker,Edmonton Stingers,left_short_corner,6,7,3,0.42857142857142855
+A. Peter-McNeilly,Edmonton Stingers,left_short_corner,4,6,2,0.3333333333333333
+B. Clarke,Edmonton Stingers,left_short_corner,4,3,2,0.6666666666666666
+A. Peter-McNeilly,Edmonton Stingers,left_wing_three,12,8,4,0.5
+I. Osborne,Edmonton Stingers,left_wing_three,9,3,3,1.0
+M. Kamba,Edmonton Stingers,left_wing_three,9,7,3,0.42857142857142855
+B. Clarke,Edmonton Stingers,restricted_area,40,30,20,0.6666666666666666
+J. Baker,Edmonton Stingers,restricted_area,36,26,18,0.6923076923076923
+M. Kamba,Edmonton Stingers,restricted_area,34,27,17,0.6296296296296297
+M. Kamba,Edmonton Stingers,right_corner,9,4,3,0.75
+M. Johnson,Edmonton Stingers,right_corner,6,4,2,0.5
+A. Peter-McNeilly,Edmonton Stingers,right_corner,3,4,1,0.25
+X. Moon,Edmonton Stingers,right_short_corner,8,8,4,0.5
+J. Baker,Edmonton Stingers,right_short_corner,4,4,2,0.5
+M. Johnson,Edmonton Stingers,right_short_corner,4,4,2,0.5
+A. Peter-McNeilly,Edmonton Stingers,right_wing_three,18,15,6,0.4
+M. Kamba,Edmonton Stingers,right_wing_three,9,8,3,0.375
+B. Clarke,Edmonton Stingers,right_wing_three,6,4,2,0.5
+X. Moon,Edmonton Stingers,top_key_midrange,14,11,7,0.6363636363636364
+B. Clarke,Edmonton Stingers,top_key_midrange,6,3,3,1.0
+J. Baker,Edmonton Stingers,top_key_midrange,6,7,3,0.42857142857142855
+X. Moon,Edmonton Stingers,top_key_three,21,11,7,0.6363636363636364
+J. Baker,Edmonton Stingers,top_key_three,9,7,3,0.42857142857142855
+B. Clarke,Edmonton Stingers,top_key_three,3,4,1,0.25
+A. Campbell,Fraser Valley Bandits,left_corner,9,4,3,0.75
+J. Cadougan,Fraser Valley Bandits,left_corner,3,1,1,1.0
+M. Capers,Fraser Valley Bandits,left_corner,3,1,1,1.0
+B. Gilbeck,Fraser Valley Bandits,left_short_corner,4,3,2,0.6666666666666666
+A. Campbell,Fraser Valley Bandits,left_short_corner,2,5,1,0.2
+K. Manigault,Fraser Valley Bandits,left_short_corner,2,1,1,1.0
+M. Duvivier,Fraser Valley Bandits,left_wing_three,15,7,5,0.7142857142857143
+A. Campbell,Fraser Valley Bandits,left_wing_three,9,5,3,0.6
+J. Manigat,Fraser Valley Bandits,left_wing_three,9,6,3,0.5
+B. Gilbeck,Fraser Valley Bandits,restricted_area,22,17,11,0.6470588235294118
+M. Duvivier,Fraser Valley Bandits,restricted_area,16,13,8,0.6153846153846154
+S. Keith,Fraser Valley Bandits,restricted_area,14,9,7,0.7777777777777778
+J. Cadougan,Fraser Valley Bandits,right_corner,3,1,1,1.0
+J. Manigat,Fraser Valley Bandits,right_corner,3,2,1,0.5
+M. Duvivier,Fraser Valley Bandits,right_corner,3,2,1,0.5
+B. Gilbeck,Fraser Valley Bandits,right_short_corner,8,5,4,0.8
+M. Duvivier,Fraser Valley Bandits,right_short_corner,8,8,4,0.5
+L. Kendall,Fraser Valley Bandits,right_short_corner,6,4,3,0.75
+A. Campbell,Fraser Valley Bandits,right_wing_three,12,8,4,0.5
+S. Gibson,Fraser Valley Bandits,right_wing_three,9,6,3,0.5
+K. Manigault,Fraser Valley Bandits,right_wing_three,6,5,2,0.4
+B. Gilbeck,Fraser Valley Bandits,top_key_midrange,8,11,4,0.36363636363636365
+J. Cadougan,Fraser Valley Bandits,top_key_midrange,4,4,2,0.5
+K. Manigault,Fraser Valley Bandits,top_key_midrange,4,7,2,0.2857142857142857
+M. Duvivier,Fraser Valley Bandits,top_key_three,6,4,2,0.5
+B. Gilbeck,Fraser Valley Bandits,top_key_three,3,1,1,1.0
+K. Manigault,Fraser Valley Bandits,top_key_three,3,1,1,1.0
+A. Hill,Guelph Nighthawks,left_corner,3,3,1,0.3333333333333333
+M. Calloo,Guelph Nighthawks,left_corner,3,2,1,0.5
+T. Green,Guelph Nighthawks,left_corner,3,2,1,0.5
+C. Barber,Guelph Nighthawks,left_short_corner,4,6,2,0.3333333333333333
+G. Bezhanishvili,Guelph Nighthawks,left_short_corner,2,1,1,1.0
+T. Green,Guelph Nighthawks,left_short_corner,2,1,1,1.0
+M. Bryson,Guelph Nighthawks,left_wing_three,9,4,3,0.75
+A. Hill,Guelph Nighthawks,left_wing_three,6,3,2,0.6666666666666666
+S. Smith,Guelph Nighthawks,left_wing_three,6,3,2,0.6666666666666666
+S. Miller-Moore,Guelph Nighthawks,restricted_area,18,11,9,0.8181818181818182
+C. Barber,Guelph Nighthawks,restricted_area,12,12,6,0.5
+O. Ashaolu,Guelph Nighthawks,restricted_area,8,6,4,0.6666666666666666
+C. Barber,Guelph Nighthawks,right_corner,3,1,1,1.0
+M. Calloo,Guelph Nighthawks,right_corner,3,1,1,1.0
+A. Hill,Guelph Nighthawks,right_corner,0,2,0,0.0
+C. Barber,Guelph Nighthawks,right_short_corner,6,6,3,0.5
+A. Hill,Guelph Nighthawks,right_short_corner,2,5,1,0.2
+K. Mackenzie,Guelph Nighthawks,right_short_corner,2,2,1,0.5
+A. Hill,Guelph Nighthawks,right_wing_three,18,10,6,0.6
+C. Barber,Guelph Nighthawks,right_wing_three,6,4,2,0.5
+K. Mackenzie,Guelph Nighthawks,right_wing_three,6,5,2,0.4
+C. Barber,Guelph Nighthawks,top_key_midrange,4,7,2,0.2857142857142857
+G. Bezhanishvili,Guelph Nighthawks,top_key_midrange,4,4,2,0.5
+A. Hill,Guelph Nighthawks,top_key_midrange,2,8,1,0.125
+A. Hill,Guelph Nighthawks,top_key_three,3,1,1,1.0
+C. Barber,Guelph Nighthawks,top_key_three,3,3,1,0.3333333333333333
+T. Green,Guelph Nighthawks,top_key_three,3,1,1,1.0
+C. John,Hamilton Honey Badgers,left_corner,6,4,2,0.5
+J. Mukama,Hamilton Honey Badgers,left_corner,6,5,2,0.4
+J. Rocca,Hamilton Honey Badgers,left_corner,6,2,2,1.0
+L. Wigginton,Hamilton Honey Badgers,left_short_corner,3,1,1,1.0
+C. John,Hamilton Honey Badgers,left_short_corner,2,2,1,0.5
+D. Denzel-Dyson,Hamilton Honey Badgers,left_short_corner,2,1,1,1.0
+A. Johnson,Hamilton Honey Badgers,left_wing_three,6,5,2,0.4
+D. Denzel-Dyson,Hamilton Honey Badgers,left_wing_three,6,5,2,0.4
+J. Mukama,Hamilton Honey Badgers,left_wing_three,6,4,2,0.5
+A. Best,Hamilton Honey Badgers,restricted_area,20,17,10,0.5882352941176471
+J. Mukama,Hamilton Honey Badgers,restricted_area,18,13,9,0.6923076923076923
+J. Tilmon,Hamilton Honey Badgers,restricted_area,18,11,9,0.8181818181818182
+C. John,Hamilton Honey Badgers,right_corner,3,2,1,0.5
+K. Johnson,Hamilton Honey Badgers,right_corner,3,3,1,0.3333333333333333
+K. McEwen,Hamilton Honey Badgers,right_corner,3,2,1,0.5
+X. Rathan-Mayes,Hamilton Honey Badgers,right_short_corner,6,7,3,0.42857142857142855
+S. Carter,Hamilton Honey Badgers,right_short_corner,5,2,2,1.0
+B. Weber,Hamilton Honey Badgers,right_short_corner,4,4,2,0.5
+J. Mukama,Hamilton Honey Badgers,right_wing_three,18,10,6,0.6
+X. Rathan-Mayes,Hamilton Honey Badgers,right_wing_three,18,14,6,0.42857142857142855
+K. McEwen,Hamilton Honey Badgers,right_wing_three,9,4,3,0.75
+B. Weber,Hamilton Honey Badgers,top_key_midrange,8,5,4,0.8
+J. Tilmon,Hamilton Honey Badgers,top_key_midrange,8,6,4,0.6666666666666666
+C. Agada,Hamilton Honey Badgers,top_key_midrange,6,5,3,0.6
+K. McEwen,Hamilton Honey Badgers,top_key_three,6,5,2,0.4
+M. Burnatowski,Hamilton Honey Badgers,top_key_three,6,5,2,0.4
+R. Tarrant Jr.,Hamilton Honey Badgers,top_key_three,6,4,2,0.5
+M. Boursiquot,Montreal Alliance,left_corner,3,1,1,1.0
+J. Bowden,Montreal Alliance,left_corner,0,1,0,0.0
+C. Smith,Montreal Alliance,left_short_corner,2,1,1,1.0
+A. Hill,Montreal Alliance,left_short_corner,0,1,0,0.0
+A. Louis,Montreal Alliance,left_short_corner,0,1,0,0.0
+A. Hill,Montreal Alliance,left_wing_three,3,1,1,1.0
+D. Bandoo,Montreal Alliance,left_wing_three,0,1,0,0.0
+G. Payen-Boucard,Montreal Alliance,left_wing_three,0,2,0,0.0
+A. Louis,Montreal Alliance,restricted_area,8,5,4,0.8
+C. Rohlehr,Montreal Alliance,restricted_area,8,5,4,0.8
+C. Smith,Montreal Alliance,restricted_area,4,6,2,0.3333333333333333
+D. Bandoo,Montreal Alliance,right_short_corner,4,2,2,1.0
+C. Smith,Montreal Alliance,right_short_corner,2,1,1,1.0
+J. Bowden,Montreal Alliance,right_short_corner,0,1,0,0.0
+A. Hill,Montreal Alliance,right_wing_three,6,2,2,1.0
+G. Payen-Boucard,Montreal Alliance,right_wing_three,3,1,1,1.0
+J. Bowden,Montreal Alliance,right_wing_three,3,4,1,0.25
+A. Louis,Montreal Alliance,top_key_midrange,2,1,1,1.0
+J. Bowden,Montreal Alliance,top_key_midrange,0,1,0,0.0
+A. Hill,Montreal Alliance,top_key_three,0,1,0,0.0
+C. Smith,Montreal Alliance,top_key_three,0,2,0,0.0
+D. Bandoo,Montreal Alliance,top_key_three,0,1,0,0.0
+A. Davis Jr.,Niagara River Lions,left_corner,3,2,1,0.5
+A. Rai,Niagara River Lions,left_corner,3,1,1,1.0
+D. Pinson,Niagara River Lions,left_corner,3,2,1,0.5
+K. Robertson,Niagara River Lions,left_short_corner,6,4,3,0.75
+N. Cayo,Niagara River Lions,left_short_corner,6,7,3,0.42857142857142855
+K. Ahmad,Niagara River Lions,left_short_corner,4,3,2,0.6666666666666666
+P. Scrubb,Niagara River Lions,left_wing_three,12,11,4,0.36363636363636365
+K. Ahmad,Niagara River Lions,left_wing_three,9,10,3,0.3
+A. Davis Jr.,Niagara River Lions,left_wing_three,6,5,2,0.4
+K. Ahmad,Niagara River Lions,restricted_area,32,33,16,0.48484848484848486
+N. Cayo,Niagara River Lions,restricted_area,26,17,13,0.7647058823529411
+D. Mullings,Niagara River Lions,restricted_area,22,20,11,0.55
+O. Moore,Niagara River Lions,right_corner,6,3,2,0.6666666666666666
+N. Cayo,Niagara River Lions,right_corner,3,6,1,0.16666666666666666
+P. Scrubb,Niagara River Lions,right_corner,3,1,1,1.0
+D. Mullings,Niagara River Lions,right_short_corner,4,3,2,0.6666666666666666
+J. Blair,Niagara River Lions,right_short_corner,4,3,2,0.6666666666666666
+K. Ahmad,Niagara River Lions,right_short_corner,4,5,2,0.4
+K. Ahmad,Niagara River Lions,right_wing_three,12,15,4,0.26666666666666666
+E. Onu,Niagara River Lions,right_wing_three,6,3,2,0.6666666666666666
+J. Babb-Harrison,Niagara River Lions,right_wing_three,6,5,2,0.4
+E. Mitrou-Long,Niagara River Lions,top_key_midrange,4,6,2,0.3333333333333333
+J. Henry-Blair,Niagara River Lions,top_key_midrange,4,5,2,0.4
+K. Mackenzie,Niagara River Lions,top_key_midrange,4,4,2,0.5
+K. Ahmad,Niagara River Lions,top_key_three,21,16,7,0.4375
+E. Onu,Niagara River Lions,top_key_three,18,7,6,0.8571428571428571
+P. Scrubb,Niagara River Lions,top_key_three,9,3,3,1.0
+G. Pepin,Ottawa BlackJacks,left_corner,3,2,1,0.5
+K. Gray,Ottawa BlackJacks,left_corner,3,4,1,0.25
+K. Veinot,Ottawa BlackJacks,left_corner,3,1,1,1.0
+J. Berhanemeskel,Ottawa BlackJacks,left_short_corner,4,2,2,1.0
+C. Posthumus,Ottawa BlackJacks,left_short_corner,2,1,1,1.0
+D. Adel,Ottawa BlackJacks,left_short_corner,2,6,1,0.16666666666666666
+E. Calloway,Ottawa BlackJacks,left_wing_three,9,4,3,0.75
+S. Givance,Ottawa BlackJacks,left_wing_three,9,4,3,0.75
+D. Adel,Ottawa BlackJacks,left_wing_three,6,6,2,0.3333333333333333
+I. Moore,Ottawa BlackJacks,restricted_area,32,19,16,0.8421052631578947
+C. Posthumus,Ottawa BlackJacks,restricted_area,28,22,14,0.6363636363636364
+L. Pandi,Ottawa BlackJacks,restricted_area,18,13,9,0.6923076923076923
+J. Berhanemeskel,Ottawa BlackJacks,right_corner,3,1,1,1.0
+K. Gray,Ottawa BlackJacks,right_corner,3,2,1,0.5
+K. Veinot,Ottawa BlackJacks,right_corner,3,1,1,1.0
+D. Adel,Ottawa BlackJacks,right_short_corner,6,8,3,0.375
+T. Brown,Ottawa BlackJacks,right_short_corner,6,4,3,0.75
+A. Williams,Ottawa BlackJacks,right_short_corner,4,3,2,0.6666666666666666
+T. Green,Ottawa BlackJacks,right_wing_three,12,6,4,0.6666666666666666
+J. Berhanemeskel,Ottawa BlackJacks,right_wing_three,9,6,3,0.5
+K. Gray,Ottawa BlackJacks,right_wing_three,9,6,3,0.5
+T. Scrubb,Ottawa BlackJacks,top_key_midrange,8,8,4,0.5
+K. Gray,Ottawa BlackJacks,top_key_midrange,6,6,3,0.5
+M. Coleman III,Ottawa BlackJacks,top_key_midrange,6,3,3,1.0
+J. Gant,Ottawa BlackJacks,top_key_three,6,2,2,1.0
+D. Adel,Ottawa BlackJacks,top_key_three,3,5,1,0.2
+E. Calloway,Ottawa BlackJacks,top_key_three,3,1,1,1.0
+D. Bernard,Saskatchewan Rattlers,left_corner,3,2,1,0.5
+M. Benlevi,Saskatchewan Rattlers,left_corner,3,2,1,0.5
+M. Nuga,Saskatchewan Rattlers,left_corner,3,1,1,1.0
+A. Tsegakele,Saskatchewan Rattlers,left_short_corner,2,1,1,1.0
+B. Massey,Saskatchewan Rattlers,left_short_corner,2,1,1,1.0
+C. Posthumus,Saskatchewan Rattlers,left_short_corner,2,1,1,1.0
+T. Carr,Saskatchewan Rattlers,left_wing_three,6,7,2,0.2857142857142857
+A. Campbell,Saskatchewan Rattlers,left_wing_three,3,6,1,0.16666666666666666
+D. Bandoo,Saskatchewan Rattlers,left_wing_three,3,2,1,0.5
+J. Tshimanga,Saskatchewan Rattlers,restricted_area,28,18,14,0.7777777777777778
+S. Keith,Saskatchewan Rattlers,restricted_area,16,12,8,0.6666666666666666
+S. Osayande,Saskatchewan Rattlers,restricted_area,16,15,8,0.5333333333333333
+M. Johnson,Saskatchewan Rattlers,right_corner,3,1,1,1.0
+N. Webster-Chan,Saskatchewan Rattlers,right_corner,3,3,1,0.3333333333333333
+S. Lindsey,Saskatchewan Rattlers,right_corner,3,2,1,0.5
+D. Bandoo,Saskatchewan Rattlers,right_short_corner,11,7,5,0.7142857142857143
+J. Tshimanga,Saskatchewan Rattlers,right_short_corner,2,3,1,0.3333333333333333
+N. Webster-Chan,Saskatchewan Rattlers,right_short_corner,2,1,1,1.0
+M. Benlevi,Saskatchewan Rattlers,right_wing_three,9,4,3,0.75
+B. Massey,Saskatchewan Rattlers,right_wing_three,6,2,2,1.0
+A. Campbell,Saskatchewan Rattlers,right_wing_three,3,4,1,0.25
+A. Campbell,Saskatchewan Rattlers,top_key_midrange,4,4,2,0.5
+J. Tshimanga,Saskatchewan Rattlers,top_key_midrange,4,2,2,1.0
+J. Pryce,Saskatchewan Rattlers,top_key_midrange,2,2,1,0.5
+N. Webster-Chan,Saskatchewan Rattlers,top_key_three,6,2,2,1.0
+A. Campbell,Saskatchewan Rattlers,top_key_three,3,3,1,0.3333333333333333
+D. Bandoo,Saskatchewan Rattlers,top_key_three,3,1,1,1.0
+G. Juozapaitis,Scarborough Shooting Stars,left_corner,15,7,5,0.7142857142857143
+A. Best,Scarborough Shooting Stars,left_corner,6,3,2,0.6666666666666666
+D. Djurcic,Scarborough Shooting Stars,left_corner,3,1,1,1.0
+C. Barber,Scarborough Shooting Stars,left_short_corner,7,7,3,0.42857142857142855
+J. Harris,Scarborough Shooting Stars,left_short_corner,6,6,3,0.5
+K. Young,Scarborough Shooting Stars,left_short_corner,6,5,3,0.6
+K. Robertson,Scarborough Shooting Stars,left_wing_three,21,10,7,0.7
+D. Williams,Scarborough Shooting Stars,left_wing_three,6,2,2,1.0
+G. Juozapaitis,Scarborough Shooting Stars,left_wing_three,6,3,2,0.6666666666666666
+I. Mike,Scarborough Shooting Stars,restricted_area,40,33,20,0.6060606060606061
+C. Barber,Scarborough Shooting Stars,restricted_area,34,34,17,0.5
+K. Walker,Scarborough Shooting Stars,restricted_area,30,20,15,0.75
+I. Mike,Scarborough Shooting Stars,right_corner,9,8,3,0.375
+Z. Moore,Scarborough Shooting Stars,right_corner,9,5,3,0.6
+A. Best,Scarborough Shooting Stars,right_corner,3,2,1,0.5
+K. Young,Scarborough Shooting Stars,right_short_corner,6,4,3,0.75
+C. Barber,Scarborough Shooting Stars,right_short_corner,2,4,1,0.25
+D. Djurcic,Scarborough Shooting Stars,right_short_corner,2,1,1,1.0
+C. Barber,Scarborough Shooting Stars,right_wing_three,18,13,6,0.46153846153846156
+D. Djurcic,Scarborough Shooting Stars,right_wing_three,6,2,2,1.0
+I. Mike,Scarborough Shooting Stars,right_wing_three,6,8,2,0.25
+K. Chatman,Scarborough Shooting Stars,top_key_midrange,8,5,4,0.8
+C. Barber,Scarborough Shooting Stars,top_key_midrange,6,12,3,0.25
+I. Mike,Scarborough Shooting Stars,top_key_midrange,6,8,3,0.375
+K. Robertson,Scarborough Shooting Stars,top_key_three,15,8,5,0.625
+I. Mike,Scarborough Shooting Stars,top_key_three,12,6,4,0.6666666666666666
+C. Barber,Scarborough Shooting Stars,top_key_three,9,12,3,0.25
+A. Campbell,Vancouver Bandits,left_corner,3,2,1,0.5
+J. Manigat,Vancouver Bandits,left_corner,3,1,1,1.0
+D. Notice,Vancouver Bandits,left_corner,0,1,0,0.0
+M. Creek,Vancouver Bandits,left_short_corner,4,3,2,0.6666666666666666
+M. Carr,Vancouver Bandits,left_short_corner,2,2,1,0.5
+T. Moore,Vancouver Bandits,left_short_corner,2,2,1,0.5
+M. Creek,Vancouver Bandits,left_wing_three,9,3,3,1.0
+D. Notice,Vancouver Bandits,left_wing_three,6,4,2,0.5
+K. McEwen,Vancouver Bandits,left_wing_three,6,3,2,0.6666666666666666
+N. Ward,Vancouver Bandits,restricted_area,34,19,17,0.8947368421052632
+M. Creek,Vancouver Bandits,restricted_area,18,17,9,0.5294117647058824
+T. Moore,Vancouver Bandits,restricted_area,12,10,6,0.6
+A. Campbell,Vancouver Bandits,right_corner,3,1,1,1.0
+D. Notice,Vancouver Bandits,right_corner,3,2,1,0.5
+J. Manigat,Vancouver Bandits,right_corner,3,2,1,0.5
+K. McEwen,Vancouver Bandits,right_short_corner,4,3,2,0.6666666666666666
+M. Creek,Vancouver Bandits,right_short_corner,4,4,2,0.5
+M. Carr,Vancouver Bandits,right_short_corner,2,3,1,0.3333333333333333
+Z. Copeland,Vancouver Bandits,right_wing_three,6,3,2,0.6666666666666666
+A. Campbell,Vancouver Bandits,right_wing_three,3,1,1,1.0
+K. McEwen,Vancouver Bandits,right_wing_three,3,5,1,0.2
+M. Carr,Vancouver Bandits,top_key_midrange,6,5,3,0.6
+N. Ward,Vancouver Bandits,top_key_midrange,6,6,3,0.5
+K. McEwen,Vancouver Bandits,top_key_midrange,2,2,1,0.5
+A. Campbell,Vancouver Bandits,top_key_three,3,3,1,0.3333333333333333
+J. Manigat,Vancouver Bandits,top_key_three,3,1,1,1.0
+K. McEwen,Vancouver Bandits,top_key_three,3,3,1,0.3333333333333333
+S. Hildebrandt,Winnipeg Sea Bears,left_corner,3,2,1,0.5
+S. Lindsey,Winnipeg Sea Bears,left_corner,3,1,1,1.0
+A. Hess,Winnipeg Sea Bears,left_corner,0,2,0,0.0
+J. Ogungbemi-Jackson,Winnipeg Sea Bears,left_short_corner,2,2,1,0.5
+S. Lindsey,Winnipeg Sea Bears,left_short_corner,2,1,1,1.0
+E. Akot,Winnipeg Sea Bears,left_short_corner,0,1,0,0.0
+S. Hildebrandt,Winnipeg Sea Bears,left_wing_three,6,3,2,0.6666666666666666
+E. Akot,Winnipeg Sea Bears,left_wing_three,0,1,0,0.0
+J. Watson-Gayle,Winnipeg Sea Bears,left_wing_three,0,1,0,0.0
+T. Allen,Winnipeg Sea Bears,restricted_area,12,12,6,0.5
+E. Akot,Winnipeg Sea Bears,restricted_area,10,5,5,1.0
+J. Watson-Gayle,Winnipeg Sea Bears,restricted_area,6,6,3,0.5
+J. Watson-Gayle,Winnipeg Sea Bears,right_corner,3,2,1,0.5
+S. Lindsey,Winnipeg Sea Bears,right_corner,3,2,1,0.5
+A. Hess,Winnipeg Sea Bears,right_corner,0,3,0,0.0
+T. Allen,Winnipeg Sea Bears,right_short_corner,6,4,3,0.75
+J. Wright-Foreman,Winnipeg Sea Bears,right_short_corner,4,4,2,0.5
+A. Hess,Winnipeg Sea Bears,right_short_corner,2,1,1,1.0
+J. Watson-Gayle,Winnipeg Sea Bears,right_wing_three,6,3,2,0.6666666666666666
+A. Campbell,Winnipeg Sea Bears,right_wing_three,3,1,1,1.0
+A. Hess,Winnipeg Sea Bears,right_wing_three,3,2,1,0.5
+E. Akot,Winnipeg Sea Bears,top_key_midrange,2,2,1,0.5
+J. Wright-Foreman,Winnipeg Sea Bears,top_key_midrange,2,1,1,1.0
+J. Watson-Gayle,Winnipeg Sea Bears,top_key_midrange,0,1,0,0.0
+J. Wright-Foreman,Winnipeg Sea Bears,top_key_three,6,5,2,0.4
+E. Akot,Winnipeg Sea Bears,top_key_three,3,2,1,0.5
+T. Allen,Winnipeg Sea Bears,top_key_three,3,3,1,0.3333333333333333

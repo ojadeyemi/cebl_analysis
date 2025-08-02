@@ -1,0 +1,28 @@
+player,team,zone,total_points,total_attempts,made_shots,fg_percentage
+D. Denzel-Dyson,Hamilton Honey Badgers,left_corner,30,25,10,0.4
+C. Vital,Hamilton Honey Badgers,left_corner,27,18,9,0.5
+K. McEwen,Hamilton Honey Badgers,left_corner,27,19,9,0.47368421052631576
+J. Rocca,Hamilton Honey Badgers,left_short_corner,18,17,9,0.5294117647058824
+C. Agada,Hamilton Honey Badgers,left_short_corner,14,21,7,0.3333333333333333
+D. Denzel-Dyson,Hamilton Honey Badgers,left_short_corner,10,15,5,0.3333333333333333
+D. Denzel-Dyson,Hamilton Honey Badgers,left_wing_three,51,37,17,0.4594594594594595
+C. Vital,Hamilton Honey Badgers,left_wing_three,42,38,14,0.3684210526315789
+C. Agada,Hamilton Honey Badgers,left_wing_three,30,25,10,0.4
+R. Tarrant Jr.,Hamilton Honey Badgers,restricted_area,154,111,77,0.6936936936936937
+D. Denzel-Dyson,Hamilton Honey Badgers,restricted_area,100,91,50,0.5494505494505495
+C. Agada,Hamilton Honey Badgers,restricted_area,98,83,49,0.5903614457831325
+N. Djogo,Hamilton Honey Badgers,right_corner,30,20,10,0.5
+J. Mukama,Hamilton Honey Badgers,right_corner,15,15,5,0.3333333333333333
+C. Vital,Hamilton Honey Badgers,right_corner,12,10,4,0.4
+J. Rocca,Hamilton Honey Badgers,right_short_corner,18,19,9,0.47368421052631576
+X. Rathan-Mayes,Hamilton Honey Badgers,right_short_corner,14,15,7,0.4666666666666667
+D. Denzel-Dyson,Hamilton Honey Badgers,right_short_corner,12,14,6,0.42857142857142855
+K. McEwen,Hamilton Honey Badgers,right_wing_three,45,36,15,0.4166666666666667
+D. Denzel-Dyson,Hamilton Honey Badgers,right_wing_three,42,43,14,0.32558139534883723
+R. Tarrant Jr.,Hamilton Honey Badgers,right_wing_three,33,33,11,0.3333333333333333
+C. Agada,Hamilton Honey Badgers,top_key_midrange,25,30,12,0.4
+L. Wigginton,Hamilton Honey Badgers,top_key_midrange,18,20,9,0.45
+J. Rocca,Hamilton Honey Badgers,top_key_midrange,14,11,7,0.6363636363636364
+L. Wigginton,Hamilton Honey Badgers,top_key_three,57,32,19,0.59375
+C. Agada,Hamilton Honey Badgers,top_key_three,36,36,12,0.3333333333333333
+R. Tarrant Jr.,Hamilton Honey Badgers,top_key_three,33,24,11,0.4583333333333333

@@ -1,0 +1,28 @@
+player,team,zone,total_points,total_attempts,made_shots,fg_percentage
+T. Green,Ottawa BlackJacks,left_corner,42,23,14,0.6086956521739131
+K. Gray,Ottawa BlackJacks,left_corner,39,24,13,0.5416666666666666
+T. Tate,Ottawa BlackJacks,left_corner,39,35,13,0.37142857142857144
+D. Adel,Ottawa BlackJacks,left_short_corner,28,45,14,0.3111111111111111
+J. Berhanemeskel,Ottawa BlackJacks,left_short_corner,10,11,5,0.45454545454545453
+J. Cadougan,Ottawa BlackJacks,left_short_corner,10,9,5,0.5555555555555556
+K. Gray,Ottawa BlackJacks,left_wing_three,63,65,21,0.3230769230769231
+D. Adel,Ottawa BlackJacks,left_wing_three,60,61,20,0.32786885245901637
+T. Tate,Ottawa BlackJacks,left_wing_three,54,49,18,0.3673469387755102
+D. Adel,Ottawa BlackJacks,restricted_area,264,206,132,0.6407766990291263
+Z. Edosomwan,Ottawa BlackJacks,restricted_area,216,177,108,0.6101694915254238
+W. Lemon Jr.,Ottawa BlackJacks,restricted_area,206,174,103,0.5919540229885057
+T. Tate,Ottawa BlackJacks,right_corner,51,34,17,0.5
+T. Green,Ottawa BlackJacks,right_corner,45,27,15,0.5555555555555556
+M. Boursiquot,Ottawa BlackJacks,right_corner,33,16,11,0.6875
+D. Adel,Ottawa BlackJacks,right_short_corner,56,76,28,0.3684210526315789
+T. Tate,Ottawa BlackJacks,right_short_corner,20,23,10,0.43478260869565216
+K. Gray,Ottawa BlackJacks,right_short_corner,18,23,9,0.391304347826087
+T. Tate,Ottawa BlackJacks,right_wing_three,78,56,26,0.4642857142857143
+D. Adel,Ottawa BlackJacks,right_wing_three,54,56,18,0.32142857142857145
+K. Gray,Ottawa BlackJacks,right_wing_three,51,42,17,0.40476190476190477
+D. Adel,Ottawa BlackJacks,top_key_midrange,48,59,24,0.4067796610169492
+K. Gray,Ottawa BlackJacks,top_key_midrange,30,42,15,0.35714285714285715
+T. Scrubb,Ottawa BlackJacks,top_key_midrange,28,33,14,0.42424242424242425
+D. Adel,Ottawa BlackJacks,top_key_three,48,33,16,0.48484848484848486
+K. Gray,Ottawa BlackJacks,top_key_three,42,44,14,0.3181818181818182
+T. Green,Ottawa BlackJacks,top_key_three,42,31,14,0.45161290322580644

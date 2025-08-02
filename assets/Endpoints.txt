@@ -1,0 +1,78 @@
+api.data.cebl.ca/
+games/{year} (year from 2019 to present which is 2024)
+teams/{year}
+players/{player_id}(which can be found in player/statistics/ called id)
+players/{player_id}/statistics param:  mode=(select only one)[PER_GAME, TOTAL], career_only=[true, false]
+
+players/statistics/leaders params= statistics=(select at least one sepereated by commas)[POINTS,REBOUNDS,ASSISTS,BLOCKS,STEALS,MINUTES,FIELD_GOAL_PERCENTAGE,THREE_POINTS_MADE,THREE_POINT_PERCENTAGE,FREE_THROW_PERCENTAGE,FOULS,TURNOVERS]
+ mode=(select only one)[PER_GAME, TOTAL]  season(select only one)={year from 2019 to preseent, 2024}  optional param: competition(select only one)=[REGULAR, PLAYOFFS], team_id={team_id}
+
+
+players/statistics/aggregated params = season = {year},   mode=(select only one)[PER_GAME, TOTAL] &team_id ={team_id} team id is found from team/year response (its called 'id') optional param: competition(select only one)=[REGULAR, PLAYOFFS] segment=[EAST, WEST], team_id={team_id}
+
+teams/{team_id}(which is found from team/year response)/roster/{year}
+
+teams/statistics/aggregated/params = season={year} ,  mode=(select only one)[PER_GAME, TOTAL], optional param:  competition(select only one)=[REGULAR, PLAYOFFS], segment(select ony one)=[HOME,AWAY,L7D,L5G,L10G,{month either May June,July or August}] (this means lasst 7 days, last 5 or last 10 games)
+
+
+
+
+teams/2024 returns example:     {
+        "id": 14,
+        "name": "Niagara River Lions",
+        "name_en": "Niagara River Lions",
+        "short_name_en": "Niagara",
+        "name_fr": "River Lions de Niagara",
+        "short_name_fr": "Niagara",
+        "conference": "EAST",
+        "logo_url": "https://se-img.dcd-production.i.geniussports.com/ae06970f54f52afc550bd7ef82515b46M1.png",
+        "icon_url": "https://storage.googleapis.com/cebl-project.appspot.com/icons/niagara.png",
+        "tickets_url_en": "https://www.ticketmaster.ca/niagara-river-lions-tickets/artist/2163613?brand=riverlions&home_away=home&language=en-ca",
+        "tickets_url_fr": "https://www.ticketmaster.ca/niagara-river-lions-tickets/artist/2163613?brand=riverlions&home_away=home&language=fr-ca",
+        "website_url_en": "https://www.riverlions.ca/",
+        "website_url_fr": "https://www.riverlions.ca/",
+        "shop_url_en": "https://www.riverlions.ca/shop",
+        "shop_url_fr": "https://www.riverlions.ca/shop",
+        "stats_url_en": "https://cebl.ca/stats/niagara",
+        "stats_url_fr": "https://cebl.ca/fr-ca/stats/niagara",
+        "position": 1,
+        "played": 14,
+        "wins": 9,
+        "win_percentage": "0.643",
+        "home_wins": 6,
+        "away_wins": 3,
+        "losses": 5,
+        "home_losses": 0,
+        "away_losses": 5,
+        "games_behind": "0.0",
+        "points_difference": 88,
+        "last_five": "3-2",
+        "streak": "W2"
+    },
+
+games/2024 returns example:    {
+        "home_team_id": 21,
+        "home_team_name": "Montreal Alliance",
+        "home_team_logo_url": "https://se-img.dcd-production.i.geniussports.com/b70c7db6ca4f084d753d9a175cdc18f3M1.png",
+        "home_team_stats_url_en": "https://cebl.ca/stats/montreal",
+        "home_team_stats_url_fr": "https://cebl.ca/fr-ca/stats/montreal",
+        "away_team_id": 19,
+        "away_team_name": "Brampton Honey Badgers",
+        "away_team_logo_url": "https://se-img.dcd-production.i.geniussports.com/9905e2932dc67bd359994701aff95492M1.png",
+        "away_team_stats_url_en": "https://cebl.ca/stats/brampton",
+        "away_team_stats_url_fr": "https://cebl.ca/fr-ca/stats/brampton",
+        "stats_url_en": "https://fibalivestats.dcd.shared.geniussports.com/u/CEBL/2400385/",
+        "stats_url_fr": "https://fibalivestats.dcd.shared.geniussports.com/u/CEBL/2400385/index_fr_FR.html",
+        "cebl_stats_url_en": "https://www.cebl.ca/game?id=2400385",
+        "cebl_stats_url_fr": "https://www.cebl.ca/fr-ca/game?id=2400385",
+        "tickets_url_en": "https://www.ticketmaster.ca/montreal-alliance-tickets/artist/2828960?brand=alliance&home_away=home&language=en-ca",
+        "tickets_url_fr": "https://www.ticketmaster.ca/montreal-alliance-tickets/artist/2828960?brand=alliance&home_away=home&language=fr-ca",
+        "id": 958,
+        "start_time_utc": "2024-06-02T20:00:00Z",
+        "home_team_score": 95,
+        "away_team_score": 77,
+        "competition": "REGULAR",
+        "status": "COMPLETE",
+        "venue_name": "Verdun Auditorium",
+        "period": null
+    }

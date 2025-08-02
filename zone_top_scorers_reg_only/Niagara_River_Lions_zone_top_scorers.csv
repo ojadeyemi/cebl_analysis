@@ -1,0 +1,28 @@
+player,team,zone,total_points,total_attempts,made_shots,fg_percentage
+A. Rai,Niagara River Lions,left_corner,33,15,11,0.7333333333333333
+J. Babb-Harrison,Niagara River Lions,left_corner,24,17,8,0.47058823529411764
+P. Whelan,Niagara River Lions,left_corner,21,11,7,0.6363636363636364
+K. Mackenzie,Niagara River Lions,left_short_corner,28,24,14,0.5833333333333334
+K. Ahmad,Niagara River Lions,left_short_corner,25,41,12,0.2926829268292683
+N. Cayo,Niagara River Lions,left_short_corner,20,18,10,0.5555555555555556
+K. Ahmad,Niagara River Lions,left_wing_three,66,65,22,0.3384615384615385
+R. Anderson,Niagara River Lions,left_wing_three,66,68,22,0.3235294117647059
+J. Babb-Harrison,Niagara River Lions,left_wing_three,51,46,17,0.3695652173913043
+K. Ahmad,Niagara River Lions,restricted_area,344,284,172,0.6056338028169014
+G. Payen-Boucard,Niagara River Lions,restricted_area,250,228,125,0.5482456140350878
+A. Davis Jr.,Niagara River Lions,restricted_area,172,134,86,0.6417910447761194
+J. Henry-Blair,Niagara River Lions,right_corner,30,14,10,0.7142857142857143
+R. Anderson,Niagara River Lions,right_corner,27,19,9,0.47368421052631576
+T. Lall,Niagara River Lions,right_corner,27,30,9,0.3
+K. Ahmad,Niagara River Lions,right_short_corner,43,54,21,0.3888888888888889
+A. Davis Jr.,Niagara River Lions,right_short_corner,37,41,18,0.43902439024390244
+G. Payen-Boucard,Niagara River Lions,right_short_corner,26,25,13,0.52
+K. Ahmad,Niagara River Lions,right_wing_three,96,87,32,0.367816091954023
+R. Anderson,Niagara River Lions,right_wing_three,72,54,24,0.4444444444444444
+J. Henry-Blair,Niagara River Lions,right_wing_three,66,41,22,0.5365853658536586
+K. Ahmad,Niagara River Lions,top_key_midrange,51,56,25,0.44642857142857145
+A. Davis Jr.,Niagara River Lions,top_key_midrange,24,35,12,0.34285714285714286
+D. Pinson,Niagara River Lions,top_key_midrange,20,17,10,0.5882352941176471
+K. Ahmad,Niagara River Lions,top_key_three,69,73,23,0.3150684931506849
+S. Muldrow,Niagara River Lions,top_key_three,45,41,15,0.36585365853658536
+N. Mitrovic,Niagara River Lions,top_key_three,42,34,14,0.4117647058823529

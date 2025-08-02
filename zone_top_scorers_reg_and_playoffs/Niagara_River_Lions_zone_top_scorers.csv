@@ -1,0 +1,28 @@
+player,team,zone,total_points,total_attempts,made_shots,fg_percentage
+A. Rai,Niagara River Lions,left_corner,36,16,12,0.75
+J. Babb-Harrison,Niagara River Lions,left_corner,24,17,8,0.47058823529411764
+T. Lall,Niagara River Lions,left_corner,24,23,8,0.34782608695652173
+K. Mackenzie,Niagara River Lions,left_short_corner,30,25,15,0.6
+K. Ahmad,Niagara River Lions,left_short_corner,29,44,14,0.3181818181818182
+N. Cayo,Niagara River Lions,left_short_corner,26,25,13,0.52
+K. Ahmad,Niagara River Lions,left_wing_three,75,75,25,0.3333333333333333
+R. Anderson,Niagara River Lions,left_wing_three,69,70,23,0.32857142857142857
+J. Babb-Harrison,Niagara River Lions,left_wing_three,57,51,19,0.37254901960784315
+K. Ahmad,Niagara River Lions,restricted_area,376,317,188,0.5930599369085173
+G. Payen-Boucard,Niagara River Lions,restricted_area,266,241,133,0.5518672199170125
+A. Davis Jr.,Niagara River Lions,restricted_area,178,140,89,0.6357142857142857
+J. Henry-Blair,Niagara River Lions,right_corner,30,14,10,0.7142857142857143
+T. Lall,Niagara River Lions,right_corner,30,34,10,0.29411764705882354
+R. Anderson,Niagara River Lions,right_corner,27,19,9,0.47368421052631576
+K. Ahmad,Niagara River Lions,right_short_corner,47,59,23,0.3898305084745763
+A. Davis Jr.,Niagara River Lions,right_short_corner,39,43,19,0.4418604651162791
+G. Payen-Boucard,Niagara River Lions,right_short_corner,26,25,13,0.52
+K. Ahmad,Niagara River Lions,right_wing_three,108,102,36,0.35294117647058826
+R. Anderson,Niagara River Lions,right_wing_three,78,58,26,0.4482758620689655
+J. Henry-Blair,Niagara River Lions,right_wing_three,66,42,22,0.5238095238095238
+K. Ahmad,Niagara River Lions,top_key_midrange,53,59,26,0.4406779661016949
+A. Davis Jr.,Niagara River Lions,top_key_midrange,24,35,12,0.34285714285714286
+D. Pinson,Niagara River Lions,top_key_midrange,20,17,10,0.5882352941176471
+K. Ahmad,Niagara River Lions,top_key_three,90,89,30,0.33707865168539325
+E. Onu,Niagara River Lions,top_key_three,45,39,15,0.38461538461538464
+S. Muldrow,Niagara River Lions,top_key_three,45,42,15,0.35714285714285715
